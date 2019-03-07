@@ -1,5 +1,11 @@
 # Quantopo
 
-Project Quantopo entails quantum programming development for areas of quantum machine learning. This project was initially inspired by the published work of Seth Lloyd, Silvano Garnerone, and Paolo Zanardi in 'Quantum algorithms for topological and geometrical analysis of data' and Scott Aaronson's critique of the work in 'Quantum Machine Learning Algorithms: Read the Fine Print'.
+Quantopo is a quantum machine learning company focused on leveraging 
+the geometry of quantum mechanics within quantum computers to improve 
+on tools in statistical modeling and topological data analysis. 
+
+Our algorithms focus on the analytical needs of pharmaceutical and biotech 
+companies, though many have applications in defense, marketing, healthcare, 
+and other industries.
 
 Proper documentation coming soon. 
