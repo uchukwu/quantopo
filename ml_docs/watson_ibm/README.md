@@ -1,6 +1,6 @@
 # I had some fun at 'Hands-on Introduction to Machine Learning using Watson Studio' Workshop :)
 
-Check out the content: https://github.com/bleonardb3/ML_POT_03-27 !
+Check out the content: https://github.com/bleonardb3/ML_POT_03-27
 
 Offered by IBM (Mclean, VA)
 
