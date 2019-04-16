@@ -1,0 +1,39 @@
+openapi: "3.0.0"
+
+info:
+  title: "Package name extractor"
+  description: "API that accepts a text string and returns packages names in it."
+  version: "1.0"
+
+paths:
+  /extractpackagesPython:
+    post:
+      description: "Extract Python package names"
+      
+      requestBody:
+        description: "Json with single field containing text to extract entities from"
+        required: true
+        content:
+          application/json: {}
+      
+      responses:
+        '200':
+          description: "Returns names & indexs of packages in the provided text"
+          content: 
+           application/json: {}
+           
+  /extractpackagesR:
+    post:
+      description: "Extract R package names"
+      
+      requestBody:
+        description: "Json with single field containing text to extract entities from"
+        required: true
+        content:
+          application/json: {}
+      
+      responses:
+        '200':
+          description: "Returns names & indexs of packages in the provided text"
+          content: 
+           application/json: {}
