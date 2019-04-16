@@ -11,3 +11,7 @@ Moreover, proper documentations are coming soon. In the meantime, checkout this 
 ## Update: 3/27/19
 
 -Check out the new content under ml_docs/watson_ibm. Bringing new materials for learning the Data Science pipeline on Watson Studio. ;)
+
+## Update 4/16/19
+
+-New content under api/examples/kaggle_learning. API development for getting Data Science into production! A three-part rollout!
